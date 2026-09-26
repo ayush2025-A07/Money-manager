@@ -23,13 +23,6 @@ A simple, local-first personal finance app for managing weekly budgets.
 * No tracking or ads
 * Financial data stays on your device
 
-## Tech
-
-* HTML
-* CSS
-* JavaScript
-* IndexedDB / local storage
-
 ## Goal
 
 Make weekly money management **simple, private, and easy to understand**.
