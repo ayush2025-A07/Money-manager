@@ -4,7 +4,7 @@ A simple, local-first personal finance app for managing weekly budgets.
 
 ## 📥 Download
 
-**[⬇️ Download Weekly Budget Planner APK](https://github.com/ayush2025-A07/Money-manager/releases/download/apk/Weeks%20money.apk)**
+**[⬇️ Download Weekly Budget Planner APK](https://github.com/ayush2025-A07/Money-manager/releases/download/apk/Weeks.money.apk)**
 
 > Android app. Download the APK and install it on your device.
 
